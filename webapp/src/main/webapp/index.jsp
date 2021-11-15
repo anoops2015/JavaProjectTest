@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deployed War file successfully... </h2>
+<h2> Deployed War file successfully...Hello Kurian welcome to ooty nice to meet you. </h2>
 <h2> Glad to see you here </h2>
